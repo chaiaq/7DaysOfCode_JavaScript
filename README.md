@@ -18,4 +18,4 @@ Dia 06 - Concluído 🏆
 Dia 07 - Concluído 🏆
 
 <h3>Desafio finalizado!</h3>
-<p>Foi muito divertido participar do desafio e exercitar a lógica, fiquei muito feliz de ter conseguido concluir os objetivos e achei interessante ver as soluções propostas pela Rafa, que na maioria são mais enxutas e limpas que os meus códigos, me incentiva a aprender mais e conseguir aprimorar minhas habilidades.
+<p>Foi muito divertido participar do desafio e exercitar a lógica, fiquei muito feliz de ter conseguido concluir os objetivos e achei interessante ver as soluções propostas pela Rafa, que na maioria são mais enxutas e limpas que os meus códigos, me incentiva a aprender mais e conseguir aprimorar minhas habilidades.</p>
